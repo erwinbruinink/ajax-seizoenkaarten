@@ -1,0 +1,12 @@
+{
+  "name": "Ajax Seizoenkaarten - Vak 123",
+  "short_name": "Ajax Kaarten",
+  "description": "Beheer en verdeling van de Ajax seizoenkaarten, Vak 123 Rij 3",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#D2122E",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
